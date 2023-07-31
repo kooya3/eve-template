@@ -1,5 +1,5 @@
 const productData = {
-    masks: [
+    Masks: [
         { name: "", imageUrl: "assets/mask-1.jpg" },
         { name: "", imageUrl: "assets/mask-2.jpg" },
         { name: "", imageUrl: "assets/mask-3.jpg" },
@@ -7,26 +7,22 @@ const productData = {
         { name: "", imageUrl: "assets/mask-5.jpg" },
         // Add more masks here as needed
     ],
-    gloves: [
+    Gloves: [
         { name: "", imageUrl: "assets/gloves-1.jpg" },
         { name: "", imageUrl: "assets/gloves-2.jpg" },
         { name: "", imageUrl: "assets/gloves-3.jpg" },
         // Add more gloves here as needed
     ],
-    syringes: [
+    Syringes: [
         { name: "", imageUrl: "assets/syringe-1.jpg" },
         // Add more syringes here as needed
     ],
-    cottonWool: [
-        { name: "", imageUrl: "assets/cotton-1.jpg" },
-        // Add more cotton wool here as needed
-    ],
-    bags: [
+      Bags: [
         { name: "", imageUrl: "assets/bag-1.jpg" },
         { name: "", imageUrl: "assets/bag-2.jpg" },
         // Add more bags here as needed
     ],
-    glasses: [
+    Glasses: [
         { name: "", imageUrl: "assets/glasses-1.jpg" },
         { name: "", imageUrl: "assets/glasses-2.jpg" },
         { name: "", imageUrl: "assets/glasses-3.jpg" },
