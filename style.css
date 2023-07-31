@@ -168,6 +168,7 @@ section {
   justify-content: center;
   gap: 5rem;
   height: 80vh;
+  background-color: ghostwhite;
 }
 
 .section__pic-container {
@@ -326,12 +327,14 @@ section {
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
+  
 }
 
 .experience-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  ;
 }
 
 .article-container {
