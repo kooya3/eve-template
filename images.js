@@ -1,36 +1,36 @@
 const productData = {
     masks: [
-        { name: "Mask 1", imageUrl: "assets/mask-1.jpg" },
-        { name: "Mask 2", imageUrl: "assets/mask-2.jpg" },
-        { name: "Mask 3", imageUrl: "assets/mask-3.jpg" },
-        { name: "Mask 4", imageUrl: "assets/mask-4.jpg" },
-        { name: "Mask 5", imageUrl: "assets/mask-5.jpg" },
+        { name: "", imageUrl: "assets/mask-1.jpg" },
+        { name: "", imageUrl: "assets/mask-2.jpg" },
+        { name: "", imageUrl: "assets/mask-3.jpg" },
+        { name: "", imageUrl: "assets/mask-4.jpg" },
+        { name: "", imageUrl: "assets/mask-5.jpg" },
         // Add more masks here as needed
     ],
     gloves: [
-        { name: "Gloves 1", imageUrl: "assets/gloves-1.jpg" },
-        { name: "Gloves 2", imageUrl: "assets/gloves-2.jpg" },
-        { name: "Gloves 3", imageUrl: "assets/gloves-3.jpg" },
+        { name: "", imageUrl: "assets/gloves-1.jpg" },
+        { name: "", imageUrl: "assets/gloves-2.jpg" },
+        { name: "", imageUrl: "assets/gloves-3.jpg" },
         // Add more gloves here as needed
     ],
     syringes: [
-        { name: "Syringe 1", imageUrl: "syringe1.jpg" },
+        { name: "", imageUrl: "assets/syringe-1.jpg" },
         // Add more syringes here as needed
     ],
     cottonWool: [
-        { name: "Cotton Wool 1", imageUrl: "cotton-wool1.jpg" },
+        { name: "", imageUrl: "assets/cotton-1.jpg" },
         // Add more cotton wool here as needed
     ],
     bags: [
-        { name: "Bag 1", imageUrl: "bag1.jpg" },
-        { name: "Bag 2", imageUrl: "bag2.jpg" },
+        { name: "", imageUrl: "assets/bag-1.jpg" },
+        { name: "", imageUrl: "assets/bag-2.jpg" },
         // Add more bags here as needed
     ],
     glasses: [
-        { name: "Glasses 1", imageUrl: "assets/glasses-1.jpg" },
-        { name: "Glasses 2", imageUrl: "assets/glasses-2.jpg" },
-        { name: "Glasses 3", imageUrl: "assets/glasses-3.jpg" },
-        { name: "Glasses 4", imageUrl: "assets/glasses-4.jpg" },
+        { name: "", imageUrl: "assets/glasses-1.jpg" },
+        { name: "", imageUrl: "assets/glasses-2.jpg" },
+        { name: "", imageUrl: "assets/glasses-3.jpg" },
+        { name: "", imageUrl: "assets/glasses-4.jpg" },
         
         // Add more glasses here as needed
     ]
